@@ -1,5 +1,5 @@
 # CSCI3302 Introduction to Robotics Final Project
-Final Project for CSCI 3302 - Fall 2021
+Etash Kalra, Ethan Meyer, Ishika Patel
 
 ## Project Description
 
@@ -28,6 +28,14 @@ import copy
 import cv2  
 import numpy as np  
 from simple_pid import PID
+```
+
+```bash
+pip install
+pip3 install opencv-python
+pip install numpy
+
+
 ```
 
 ## Project Demonstration
