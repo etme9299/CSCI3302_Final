@@ -34,8 +34,6 @@ from simple_pid import PID
 pip install
 pip3 install opencv-python
 pip install numpy
-
-
 ```
 
 ## Project Demonstration
